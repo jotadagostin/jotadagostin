@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my future
 - 🌱 I’m currently learning Html5, Css3 and JavaScript
 - 👯 I’m looking to collaborate on many front-end projects
-- 🤔 I’m looking for help with my knowledge in front-end design
+- 🤔 I’m looking to help with my knowledge in front-end design
 - 💬 Ask me about anything, I'm always free!
 - 📫 How to reach me: instagram/linkedin or Whatsapp
 - ⚡ Fun fact: I love tecnology, movies, books, sports and Netflix...
