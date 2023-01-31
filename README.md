@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on many front-end projects
 - 🤔 I’m looking for help with my knowledge in front-end design
 - 💬 Ask me about anything, I'm always free!
-- 📫 How to reach me: instagram/linkdn or Whatsapp
+- 📫 How to reach me: instagram/linkedin or Whatsapp
 - ⚡ Fun fact: I love tecnology, movies, books, sports and Netflix...
 
 
