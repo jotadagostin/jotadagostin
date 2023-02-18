@@ -1,12 +1,12 @@
 ### Hi there! I am joão Paulo Dagostin 👋
 
 - 🔭 I’m currently working on my future
-- 🌱 I’m currently learning Html5, Css3 and JavaScript
+- 🌱 I’m currently also working with Html5, Css3 and making progress with my JavaScript skill
 - 👯 I’m looking to collaborate on many front-end projects
 - 🤔 I’m looking to help with my knowledge in front-end design
 - 💬 Ask me about anything, I'm always free!
 - 📫 How to reach me: instagram/linkedin or Whatsapp
-- ⚡ Fun fact: I love tecnology, movies, books, sports and Netflix...
+- ⚡ Fun fact: I love tecnology, movies, books, sports, popcorn and Netflix...
 
 
 <div align="center">
