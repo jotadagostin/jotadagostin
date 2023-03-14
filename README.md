@@ -1,4 +1,15 @@
-### Hi there! I am joão Paulo Dagostin 👋
+### Good Morning! 👋
+
+<!-- markdownlint-disable MD033 MD041 -->
+<!-- <p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+How are you doing?;+I+am+Joao+Paulo+Dagostin!;Welcome+to+my+Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
+
 
 - 🔭 I’m currently working on my future
 - 🌱 I’m currently also working with Html5, Css3 and making progress with my JavaScript skill
