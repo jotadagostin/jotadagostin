@@ -35,6 +35,7 @@
     <img align="center" alt="Jota-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
     <img align="center" alt="Jota-github" height="30" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mysql-workbench-icon.png">
     <img align="center" alt="Jota-github" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYjU44cq4ZTymcC_Na5VNoJYVHKLmDPesGWfEoEj2394uA2jmFxAjAWC_KlHy9S40I-n0&usqp=CAU">
+    <img align="center" alt="Jota-github" height="30" width="40" src="https://vetores.org/wp-content/uploads/typescript.png">
 
   </div>
 
