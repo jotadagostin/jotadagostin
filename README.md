@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on my future
-- 🌱 I’m currently also working with Html5, Css3 and making progress with my JavaScript skill
+- 🌱 I’m currently also working with Front-End (HTML5, CSS3, JavaScript and ReactJS)
 - 👯 I’m looking to collaborate on many front-end projects
 - 🤔 I’m looking to help with my knowledge in front-end design
 - 💬 Ask me about anything, I'm always free!
